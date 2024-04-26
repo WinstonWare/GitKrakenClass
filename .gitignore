@@ -1,0 +1,7 @@
+# Exclude everything jog
+*.jpg
+
+# exclude ext folder
+/ext/*
+
+# comment
