@@ -4,6 +4,8 @@ Menu Class: Appetizers
 
 Big Winnie
 
+email: BigWinnie@gmail.com
+
 Description:
 Baked wonton wrappers filled with cheesy sausage. This is perfect for parties.  
 
